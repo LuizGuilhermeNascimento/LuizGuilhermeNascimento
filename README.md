@@ -1,5 +1,6 @@
 - I'm Luiz Guilherme Sousa Nascimento.
 - 18 years old.
+- Brazilian
 - I'm interested in learning and know more about techonology and yours features.
 - Skills:
     > Basic domain in JavaScript, HTML, CSS & Python.
