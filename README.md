@@ -1,5 +1,4 @@
 ## **Luiz Guilherme Sousa Nascimento**
-  - :arrow_forward: 21 years old.
   - :arrow_forward: Brazilian :brazil:
   - :arrow_forward: I'm interested in learning and know more about techonology and yours features :computer: :book:
 <!---
